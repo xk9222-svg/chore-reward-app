@@ -2,7 +2,7 @@
 
 孩子家务零花钱打卡表（2026年9月 v2）的单页网页版。无需安装、无外部依赖，打开即用。
 
-**在线地址：<https://kevinxuk.github.io/chore-reward-app/>** · **儿童只读端：<https://kevinxuk.github.io/chore-reward-app/child.html>** · **儿童端·真形象版：<https://kevinxuk.github.io/chore-reward-app/yoyo.html>**
+
 
 ## 功能
 
